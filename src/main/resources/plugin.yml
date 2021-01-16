@@ -1,0 +1,5 @@
+name: F
+version: 1.0
+main: ua.TestMain
+description: :/
+api-version: 1.13
